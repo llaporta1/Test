@@ -6,7 +6,7 @@ public class Car {
 	}
 	 public void crash()
 	 {
-		 wheels = 2;
+		 wheels = 3;
 	 }
 	 
 	 public int getWheels()
